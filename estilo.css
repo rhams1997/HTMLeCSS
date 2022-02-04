@@ -1,0 +1,19 @@
+
+	body {
+  		display: flex;
+  		justify-content: center;
+  		font-family: Verdana;
+	}
+
+
+
+	#container {
+ 		 width: 900px;
+	}
+
+
+	p {
+		background-color: green;
+		color: white;
+
+	}
